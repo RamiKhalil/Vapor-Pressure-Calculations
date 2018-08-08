@@ -14,4 +14,4 @@ der.m file contains the finite difference equation to find the value of the firs
 
 afunction.m file contains equation 12 in the paper
 
-To run the program go to YousefKhlil_Project3.m and click run in Matlab 
+To run the program go to Vapor_Pressure.m and click run in Matlab 
